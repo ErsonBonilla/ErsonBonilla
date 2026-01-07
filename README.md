@@ -20,12 +20,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=er.er&left_color=gray&right_color=silver"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -38,10 +32,12 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
