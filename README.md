@@ -71,7 +71,8 @@ Diseño e implementación de aplicaciones con autenticación, roles, reportes y 
 Si alguno de mis proyectos te resulta útil y quieres apoyar mi aprendizaje:
 
 - GitHub Sponsors (próximamente)
-- Ko-fi: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U71RTE8N)
+- Ko-fi:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U71RTE8N)
 - Compartiendo o dando ⭐ a los repositorios
 
 ---
