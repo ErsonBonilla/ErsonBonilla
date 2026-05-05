@@ -2,13 +2,17 @@
 
 **Data Engineer (GCP) | Data Scientist (Python)**
 
+<div align="center">
+  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" width="400" alt="Data Science Animación">
+</div>
+
 Soy un apasionado por los datos con experiencia construyendo puentes entre la infraestructura en la nube y el análisis predictivo. Me especializo en diseñar pipelines de datos escalables en **Google Cloud Platform (GCP)** y en extraer valor de negocio utilizando **Python** y Machine Learning.
 
 Me gusta ver el ciclo de vida de los datos completo: desde su extracción y transformación (ETL/ELT), hasta el entrenamiento de modelos y la visualización de resultados.
 
 ### 🚀 Sobre mí
 * 🔭 Actualmente trabajando en: **Un sistema de recomendación end-to-end o modernización de un Data Warehouse**.
-* 🌱 Actualmente aprendiendo: **MLOps con Vertex AI, streaming con Pub/Sub o dbt]**.
+* 🌱 Actualmente aprendiendo: **MLOps con Vertex AI, streaming con Pub/Sub o dbt**.
 * 👯 Busco colaborar en: **Proyectos open source, proyectos de analítica social, etc.**.
 * 💬 Pregúntame sobre: **Python, SQL, BigQuery, diseño de pipelines y análisis exploratorio de datos**.
 * 📫 Cómo contactarme: **@Erson_Bonilla**
