@@ -39,11 +39,11 @@ Me gusta ver el ciclo de vida de los datos completo: desde su extracción y tran
 
 ### 💼 Proyectos Destacados
 
-* **SIET (Enlace_al_repositorio)**
+* **SIET**
   * **Descripción:** Pipeline de datos automatizado que extrae datos de una API, los transforma usando Cloud Dataflow y los almacena en BigQuery.
   * **Stack:** Python, GCP (Cloud Functions, Pub/Sub, BigQuery), SQL.
 
-* **SIAUGESMAT(Enlace_al_repositorio)**
+* **SIAUGESMAT**
   * **Descripción:** Modelo de Machine Learning para predecir la retención de usuarios, entrenado con Scikit-Learn y desplegado como una API REST.
   * **Stack:** Python, Pandas, Scikit-Learn, FastAPI, Docker, Cloud Run.
 
