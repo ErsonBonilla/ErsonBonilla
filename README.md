@@ -27,7 +27,7 @@
   <a href="https://github.com/ErsonBonilla" rel="nofollow"> 
     <img src="https://img.shields.io/badge/My_GitHub-181717?style=flat&logo=github&logoColor=white" style="height: 35px;">
   </a> &nbsp;
-  <a href="mailto:tu_email@ejemplo.com" rel="nofollow">
+  <a href="mailto:erson_bonilla@live.com" rel="nofollow">
     <img src="https://img.shields.io/badge/Contact_Me-005020?style=flat&logo=gmail&logoColor=white" style="height: 35px;">
   </a>
 </p>
@@ -111,7 +111,7 @@
         </a>
       </td>
       <td align="center" width="80">          
-        <a href="mailto:tu_email@ejemplo.com" target="_blank">
+        <a href="mailto:erson_bonilla@live.com" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
         </a>
       </td>
@@ -133,10 +133,10 @@
   <br>
 <p align="center">
   <a href="https://github.com/ErsonBonilla">
-    <img alt="Erson's GitHub stats" width="49%" height="210px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErsonBonilla&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+    <img alt="Erson's GitHub stats" width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=ErsonBonilla&show_icons=true&theme=tokyonight&hide_border=false" />
   </a>
   <a href="https://github.com/ErsonBonilla">
-    <img alt="Erson's Top Languages" height="210px" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErsonBonilla&langs_count=10&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" />
+    <img alt="Erson's Top Languages" height="210px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErsonBonilla&langs_count=10&layout=compact&theme=tokyonight&hide_border=false" />
   </a>
 </p>
 <p align="center">
