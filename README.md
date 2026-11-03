@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00BFFF&height=180&section=header&text=%E2%84%B0%C5%9F%CE%B7%20%E0%B8%BF%CE%B7%E0%B9%80%E2%84%93%E2%84%93%C4%85&fontSize=42&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF88&height=180&section=header&text=%E2%84%B0%C5%9F%CE%B7%20%E0%B8%BF%CE%B7%E0%B9%80%E2%84%93%E2%84%93%C4%85&fontSize=42&fontColor=fff&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Erson Bonilla</span></h1>
