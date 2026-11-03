@@ -133,10 +133,10 @@
   <br>
 <p align="center">
   <a href="https://github.com/ErsonBonilla">
-    <img alt="Erson's GitHub stats" width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=ErsonBonilla&show_icons=true&theme=tokyonight&hide_border=false" />
+    <img alt="Erson's GitHub stats" width="49%" height="210px" src="https://github-readme-stats-salesp07.vercel.app/api?username=ErsonBonilla&show_icons=true&theme=tokyonight&hide_border=false" />
   </a>
   <a href="https://github.com/ErsonBonilla">
-    <img alt="Erson's Top Languages" height="210px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErsonBonilla&langs_count=10&layout=compact&theme=tokyonight&hide_border=false" />
+    <img alt="Erson's Top Languages" height="210px" width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ErsonBonilla&langs_count=10&layout=compact&theme=tokyonight&hide_border=false" />
   </a>
 </p>
 <p align="center">
@@ -145,6 +145,7 @@
   </a>
 </p>
 </details>
+
 
 ## 🏆 GitHub Trophies
 
