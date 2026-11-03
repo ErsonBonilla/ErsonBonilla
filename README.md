@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" alt="Data Engineering & AI Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4ycWdwaWVqdHBrZzhicTFyeWZudG0wazNvdTFzbHFxZWlreHRiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3P4PPmg89m/giphy.gif" width="100%" alt="Data & Cloud Network">
 </p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Erson Bonilla</span></h1>
