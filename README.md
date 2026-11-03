@@ -1,6 +1,6 @@
 # ¡Hola! Soy Erson 👋
 
-**Data Engineer (GCP) | Data Scientist & AI Developer (Python)**
+**Data Engineer | Software Developer | GCP Cloud Solutions | Python & AI Engineering**
 
 <div align="center">
   <img src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif" width="400" alt="Data Science & Engineering">
