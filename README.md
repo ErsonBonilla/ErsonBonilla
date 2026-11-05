@@ -6,30 +6,21 @@
 <h3 align="center">🚀 Data Engineer (GCP) | Software Developer | Backend & AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erson+Bonilla;Data+Engineer+(GCP);Software+%26+Backend+Developer;AI+%26+Data+Science+Engineer;Check+out+my+projects+below!&font=Fira+Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Erson+Bonilla;Data+Engineer+(GCP);Software+%26+Backend+Developer;AI+%26+Data+Science+Engineer;Check+out+my+projects+below!&font=Fira+Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
 </p>
 
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/ersonbonilla" target="_blank">
-    <img
-      align="center"
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=1000&color=00FF88&center=true&vCenter=true&width=400&lines=✅+Open+to+Work+%7C+Data+%26+AI"
-      alt="Open to Work"
-    />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=1000&color=00FF88&center=true&vCenter=true&width=400&lines=✅+Open+to+Work+%7C+Data+%26+AI" alt="Open to Work" />
   </a>
 </p>
+
 <br clear="both"/>
 
 <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/ersonbonilla" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="height: 35px;">
-  </a> &nbsp;
-  <a href="https://github.com/ErsonBonilla" rel="nofollow"> 
-    <img src="https://img.shields.io/badge/My_GitHub-181717?style=flat&logo=github&logoColor=white" style="height: 35px;">
-  </a> &nbsp;
-  <a href="mailto:erson_bonilla@live.com" rel="nofollow">
-    <img src="https://img.shields.io/badge/Contact_Me-005020?style=flat&logo=gmail&logoColor=white" style="height: 35px;">
-  </a>
+  <a href="https://www.linkedin.com/in/ersonbonilla" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="height: 35px;"></a>&nbsp;
+  <a href="https://github.com/ErsonBonilla" rel="nofollow"><img src="https://img.shields.io/badge/My_GitHub-181717?style=flat&logo=github&logoColor=white" style="height: 35px;"></a>&nbsp;
+  <a href="mailto:erson_bonilla@live.com" rel="nofollow"><img src="https://img.shields.io/badge/Contact_Me-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" style="height: 35px;"></a>
 </p>
 
 <p align="center">
@@ -53,7 +44,7 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQL"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="SQL"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 </p>
@@ -78,6 +69,7 @@
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
 </p>
 
@@ -111,14 +103,14 @@
 <p align="center">
   <table align="center">
     <tr>
-       <td align="center" width="80">
+      <td align="center" width="80">
         <a href="https://www.linkedin.com/in/ersonbonilla" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
         </a>
       </td>
-      <td align="center" width="80">          
+      <td align="center" width="80">
         <a href="mailto:erson_bonilla@live.com" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
+          <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="48" height="48" alt="Outlook"/>
         </a>
       </td>
       <td align="center" width="80">
@@ -137,27 +129,27 @@
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
   <br>
-<p align="center">
-  <a href="https://github.com/ErsonBonilla">
-    <img alt="Erson's GitHub stats" width="49%" height="210px" src="https://github-readme-stats-salesp07.vercel.app/api?username=ErsonBonilla&show_icons=true&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/ErsonBonilla">
-    <img alt="Erson's Top Languages" height="210px" width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ErsonBonilla&langs_count=10&layout=compact&theme=tokyonight&hide_border=false" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ErsonBonilla">
-    <img title="GitHub Streak Stats" height="200px" width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ErsonBonilla&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/ErsonBonilla">
+      <img alt="Erson's GitHub stats" width="49%" height="210px" src="https://github-readme-stats-salesp07.vercel.app/api?username=ErsonBonilla&show_icons=true&theme=tokyonight&hide_border=false" />
+    </a>
+    <a href="https://github.com/ErsonBonilla">
+      <img alt="Erson's Top Languages" height="210px" width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ErsonBonilla&langs_count=10&layout=compact&theme=tokyonight&hide_border=false" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/ErsonBonilla">
+      <img title="GitHub Streak Stats" height="200px" width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ErsonBonilla&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+    </a>
+  </p>
 </details>
-
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=ErsonBonilla&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&title=Followers,Stars,Commits,Repositories,Experience,PullRequest,Issues" alt="GitHub Trophies" />
 </p>
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
