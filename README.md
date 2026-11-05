@@ -105,17 +105,17 @@
     <tr>
       <td align="center" width="80">
         <a href="https://www.linkedin.com/in/ersonbonilla" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+          <img src="https://img.icons8.com/color/48/linkedin.png" width="48" height="48" alt="LinkedIn"/>
         </a>
       </td>
       <td align="center" width="80">
         <a href="mailto:erson_bonilla@live.com" target="_blank">
-          <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="48" height="48" alt="Outlook"/>
+          <img src="https://img.icons8.com/color/48/microsoft-outlook.png" width="48" height="48" alt="Outlook"/>
         </a>
       </td>
       <td align="center" width="80">
         <a href="https://github.com/ErsonBonilla" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/github.svg" width="48" height="48" alt="GitHub"/>
+          <img src="https://img.icons8.com/color/48/github--v1.png" width="48" height="48" alt="GitHub"/>
         </a>
       </td>
     </tr>
@@ -139,4 +139,17 @@
   </p>
   <p align="center">
     <a href="https://github.com/ErsonBonilla">
-      <img title="GitHub Streak Stats" height="200px" width="98%" src="
+      <img title="GitHub Streak Stats" height="200px" width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ErsonBonilla&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
+    </a>
+  </p>
+</details>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ErsonBonilla&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&title=Followers,Stars,Commits,Repositories,Experience,PullRequest,Issues" alt="GitHub Trophies" />
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
