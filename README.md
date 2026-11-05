@@ -50,39 +50,45 @@
 
 ## 🧠 Languages & Tools
 
+<h3 align="center">Programming Languages</h3>
 <p align="center">
-
-  ### Programming Languages
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQL"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+</p>
 
-  ### Data Engineering & Cloud (GCP)
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" title="Google Cloud Platform"/>
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45" title="BigQuery"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" width="45" title="Apache Airflow"/>
+<h3 align="center">Data Engineering & Cloud (GCP)</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" title="Google Cloud Platform"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45" title="BigQuery"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" width="45" title="Apache Airflow"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" width="45" title="Apache Spark"/>
+</p>
 
-  ### Data Science & AI
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
+<h3 align="center">Data Science & AI</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter Notebook"/>
+</p>
 
-  ### Backend & Databases
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+<h3 align="center">Backend & Databases</h3>
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+</p>
 
-  ### Tools & DevOps
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
+<h3 align="center">Tools & DevOps</h3>
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" title="Docker"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" title="Linux"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-
 </p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
