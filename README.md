@@ -52,30 +52,30 @@
 
 <p align="center">
 
-  <!-- Programming Languages -->
+  ### Programming Languages
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQL"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 
-  <!-- Data Engineering & Cloud (GCP) -->
+  ### Data Engineering & Cloud (GCP)
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" title="Google Cloud Platform"/>
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45" title="BigQuery"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" width="45" title="Apache Airflow"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" width="45" title="Apache Spark"/>
 
-  <!-- Data Science & AI -->
+  ### Data Science & AI
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter Notebook"/>
 
-  <!-- Backend & Databases -->
+  ### Backend & Databases
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
 
-  <!-- Tools & DevOps -->
+  ### Tools & DevOps
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" title="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
