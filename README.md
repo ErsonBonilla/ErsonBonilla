@@ -44,7 +44,7 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="SQL"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/sql.png" width="45" title="SQL"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 </p>
@@ -139,17 +139,4 @@
   </p>
   <p align="center">
     <a href="https://github.com/ErsonBonilla">
-      <img title="GitHub Streak Stats" height="200px" width="98%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ErsonBonilla&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" />
-    </a>
-  </p>
-</details>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ErsonBonilla&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&title=Followers,Stars,Commits,Repositories,Experience,PullRequest,Issues" alt="GitHub Trophies" />
-</p>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+      <img title="GitHub Streak Stats" height="200px" width="98%" src="
