@@ -44,7 +44,7 @@
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/sql.png" width="45" title="SQL"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" title="SQL"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 </p>
@@ -101,25 +101,17 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/ersonbonilla" target="_blank">
-          <img src="https://img.icons8.com/color/48/linkedin.png" width="48" height="48" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="mailto:erson_bonilla@live.com" target="_blank">
-          <img src="https://img.icons8.com/color/48/outlook.png" width="48" height="48" alt="Outlook"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://github.com/ErsonBonilla" target="_blank">
-          <img src="https://img.icons8.com/color/48/github--v1.png" width="48" height="48" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/ersonbonilla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:erson_bonilla@live.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ErsonBonilla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
