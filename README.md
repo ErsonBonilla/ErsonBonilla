@@ -110,7 +110,7 @@
       </td>
       <td align="center" width="80">
         <a href="mailto:erson_bonilla@live.com" target="_blank">
-          <img src="https://img.icons8.com/color/48/microsoft-outlook.png" width="48" height="48" alt="Outlook"/>
+          <img src="https://img.icons8.com/color/48/outlook.png" width="48" height="48" alt="Outlook"/>
         </a>
       </td>
       <td align="center" width="80">
